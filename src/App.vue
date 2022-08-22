@@ -8,7 +8,7 @@
 
 <script lang='ts'>
 import { defineComponent, reactive, ref, toRefs } from 'vue'
-import Job from './types/Job'
+// import Job from './types/Job'
 
 export default defineComponent({
   name: 'App',
